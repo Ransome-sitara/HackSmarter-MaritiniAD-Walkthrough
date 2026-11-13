@@ -1,1 +1,0 @@
-smb://DC01.DRY.MARTINI.BARS
